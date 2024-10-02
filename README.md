@@ -22,7 +22,7 @@ Make sure you have Python installed on your system. You can download it [here](h
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/dadinator.git
+   git clone https://github.com/baj22/dadinator.git
    ```
 2. **Navigate to the project directory**
    ```bash
